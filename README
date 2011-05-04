@@ -1,0 +1,30 @@
+jquery.tickClock.js - Ticking Clock Plugin
+
+Copyright (c) 2011 Jedford Seculles
+http://www.sourcepad.com/
+
+Licensed under MIT
+http://www.opensource.org/licenses/mit-license.php
+
+Launch  : May 2011
+Version : 0.1 (Alpha)
+Released: Monday 3nd May, 2011 - 00:00
+
+Developer Team: Jedford Seculles, Teejay Obazee, Rodel Medina
+
+===========
+Description
+===========
+
+jquery.tickClock is a countdown timer re-coded from jquery.tzineClock.
+
+Working on progress. ALPHA version.
+
+=========
+Variables
+=========
+observedTime: MM/DD/YYYY hh:mm:ss PM
+colors: ['orange','blue','green'] // n number of colors will represent each dial. Each color should have corresponding CSS jquery.tickClock.css
+countPattern: 'down' // up, down
+maxTime: 365 // for 365 days
+maxHours: 48
