@@ -24,7 +24,8 @@ Working on progress. ALPHA version.
 Variables
 =========
 observedTime: MM/DD/YYYY hh:mm:ss PM
-colors: ['orange','blue','green'] // n number of colors will represent each dial. Each color should have corresponding CSS jquery.tickClock.css
+colors: ['orange','blue','green']
+// n number of colors will represent each dial. Each color should have corresponding CSS jquery.tickClock.css
 countPattern: 'down' // up, down
 maxTime: 365 // for 365 days
 maxHours: 48
